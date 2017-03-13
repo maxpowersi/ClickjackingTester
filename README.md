@@ -1,4 +1,4 @@
-ClickjackingTester v1.6
+# ClickjackingTester v1.6
 
 ClickjackingTester create a html file, with iframe, and open the default browser. It is helpfull to test clickjacking in the webapps.
 
